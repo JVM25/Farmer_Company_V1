@@ -1,0 +1,16 @@
+C:\Users\USUARIO\Desktop\PROGRAMMING II\Farm_Company_V1\bin\Debug\net5.0\Farm_Company_V1.exe
+C:\Users\USUARIO\Desktop\PROGRAMMING II\Farm_Company_V1\bin\Debug\net5.0\Farm_Company_V1.deps.json
+C:\Users\USUARIO\Desktop\PROGRAMMING II\Farm_Company_V1\bin\Debug\net5.0\Farm_Company_V1.runtimeconfig.json
+C:\Users\USUARIO\Desktop\PROGRAMMING II\Farm_Company_V1\bin\Debug\net5.0\Farm_Company_V1.runtimeconfig.dev.json
+C:\Users\USUARIO\Desktop\PROGRAMMING II\Farm_Company_V1\bin\Debug\net5.0\Farm_Company_V1.dll
+C:\Users\USUARIO\Desktop\PROGRAMMING II\Farm_Company_V1\bin\Debug\net5.0\ref\Farm_Company_V1.dll
+C:\Users\USUARIO\Desktop\PROGRAMMING II\Farm_Company_V1\bin\Debug\net5.0\Farm_Company_V1.pdb
+C:\Users\USUARIO\Desktop\PROGRAMMING II\Farm_Company_V1\obj\Debug\net5.0\Farm_Company_V1.csprojAssemblyReference.cache
+C:\Users\USUARIO\Desktop\PROGRAMMING II\Farm_Company_V1\obj\Debug\net5.0\Farm_Company_V1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\PROGRAMMING II\Farm_Company_V1\obj\Debug\net5.0\Farm_Company_V1.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\PROGRAMMING II\Farm_Company_V1\obj\Debug\net5.0\Farm_Company_V1.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\PROGRAMMING II\Farm_Company_V1\obj\Debug\net5.0\Farm_Company_V1.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\PROGRAMMING II\Farm_Company_V1\obj\Debug\net5.0\Farm_Company_V1.dll
+C:\Users\USUARIO\Desktop\PROGRAMMING II\Farm_Company_V1\obj\Debug\net5.0\ref\Farm_Company_V1.dll
+C:\Users\USUARIO\Desktop\PROGRAMMING II\Farm_Company_V1\obj\Debug\net5.0\Farm_Company_V1.pdb
+C:\Users\USUARIO\Desktop\PROGRAMMING II\Farm_Company_V1\obj\Debug\net5.0\Farm_Company_V1.genruntimeconfig.cache
